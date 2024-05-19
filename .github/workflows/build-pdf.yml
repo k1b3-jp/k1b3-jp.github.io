@@ -17,23 +17,16 @@ jobs:
       - run: npm install
       - name: build pdf
         run: npm run build:pdf
+      - name: Install GitHub CLI
+        run: sudo apt-get install -y gh
       - name: create release
         id: create_release
-        uses: actions/create-release@v1.1.4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
+        run: |
+          gh release create ${{ github.ref }} ./docs/README.pdf --title "Release ${{ github.ref }}" --notes "Release notes here" --target ${{ github.sha }}
       - name: upload Release Asset
-        id: upload-release-asset
-        uses: actions/upload-release-asset@v1.0.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./docs/README.pdf
-          asset_name: resume.pdf
-          asset_content_type: application/pdf
+        run: |
+          gh release upload ${{ github.ref }} ./docs/README.pdf --clobber
