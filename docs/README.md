@@ -72,9 +72,10 @@ k1b3-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" />
 
 ### 株式会社エミシス（2022年10月〜現在）
 #### 学習塾生向けサービス開発（2022年10月〜現在）
-- **チーム規模**
+**チーム規模**
 - 2〜5 人
-- **利用技術**
+
+**利用技術**
 - Ruby on Rails
 - Vue.js
 - Nuxt.js
@@ -85,7 +86,8 @@ k1b3-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" />
 - AWS
 - vuetify
 - storybook
-- **プロジェクト詳細**
+
+**プロジェクト詳細**
 - Nuxt でのフロントエンド開発
 - Ruby on Rails での API 開発
 - テストコードの導入
@@ -102,9 +104,10 @@ k1b3-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" />
 ### 株式会社インターロジック（2018年4月〜2022年8月）
 
 #### フロントエンドエンジニア（2021年4月〜2022年8月）
-- **チーム規模**
+**チーム規模**
 - 3 人
-- **利用技術**
+
+**利用技術**
 - JavaScript
 - Sass
 - WordPress
@@ -114,7 +117,8 @@ k1b3-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" />
 - Bootstrap
 - webpack
 - Git
-- **プロジェクト詳細**
+
+**プロジェクト詳細**
 - デザインカンプからのコーディング、WordPress テーマ開発、メンテナンス
 - 要件定義から実装、公開、運用まで（案件に応じて制作進行も含む）
 - 担当サービス・プロダクトが属する業界は自動車ディーラー、住宅販売等
@@ -123,9 +127,10 @@ k1b3-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" />
 - Adobe XD の導入
 
 #### 経営企画室（2019年8月〜2021年3月）
-- **チーム規模**
+**チーム規模**
 - 1 人
-- **プロジェクト詳細**
+
+**プロジェクト詳細**
 - 評価制度設計
 - 社内 Wiki 整備
 - 広告配信レポート体系化
@@ -134,9 +139,10 @@ k1b3-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" />
 - 新卒採用
 
 #### Webマーケティング（2018年4月〜2019年7月）
-- **チーム規模**
+**チーム規模**
 - 3 人
-- **プロジェクト詳細**
+
+**プロジェクト詳細**
 - リスティング広告、サイト分析を中心にクライアントの Web マーケティングを支援
 - 利用サービス
 - Google Analytics
