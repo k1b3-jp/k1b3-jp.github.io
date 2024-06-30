@@ -171,6 +171,7 @@ k1b3-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" />
                 <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=plastic">
                 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white">
                 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white">
+                <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss">
             </td>
             <td>
                 <p>アイドルグループ「わーすた」のファンサイト</p>
