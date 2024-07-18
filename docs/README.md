@@ -77,11 +77,12 @@ k1b3-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" />
 - storybook
 
 **プロジェクト詳細**
-- Nuxt でのフロントエンド開発
-- Ruby on Rails での API 開発
+- Nuxtでのフロントエンド開発
+- Ruby on RailsでのAPI開発
 - テストコードの導入
-- 要件定義、ドキュメントの整備（2024 年 1 月〜）
-- チケット管理（2024 年 1 月〜）
+- 要件定義、ドキュメントの整備
+- チケット管理
+- チームリーダー
 
 #### その他
 - オンボーディング施策の設計、運用
